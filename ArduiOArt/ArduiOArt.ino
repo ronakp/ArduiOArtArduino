@@ -91,7 +91,7 @@ void putapixel()//function that control pen movement
 
 }
 
-void getData()//function that get data from C#.NET code
+void getData() //function that get data from C#.NET code
 {
   if(Serial.available() > 0)
   {
